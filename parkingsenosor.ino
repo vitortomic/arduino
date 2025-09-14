@@ -1,4 +1,4 @@
-#define buzzerPin 3 // Or any other digital pin you used
+#define buzzerPin 3
 #define trigPin 4  // HC-SR04 Trigger
 #define echoPin 5  // HC-SR04 Echo
 #define rgbRedPin 8
